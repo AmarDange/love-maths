@@ -1,9 +1,9 @@
 /* --------- Global style */
 
 body {
-    background-color: rgb(228, 139, 139);
+    background-color: white;
     font-family: "Raleway", sans-serif;
-    color: #17232e;
+    color: #445361;
     text-align: center;
 }
 
@@ -77,7 +77,6 @@ body {
     height: 40px;
     width: 80px;
     font-size: 1.2rem;
-    margin-top: 30px;
 }
 
 .scores {
@@ -165,7 +164,7 @@ body {
 }
 
 .btn--gray {
-    margin-top: 30px;
+    margin-top: 25px;
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
